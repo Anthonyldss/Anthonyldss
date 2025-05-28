@@ -26,9 +26,9 @@ Aqui estão algumas das ferramentas e linguagens que domino e/ou estou aprendend
 
 ### 📊 Estatísticas do GitHub
 
-[![Minhas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seunomedeusuario&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Minhas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=anthonyldss&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Minhas Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=seunomedeusuario&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Minhas Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyldss&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
