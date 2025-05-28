@@ -21,13 +21,6 @@ Aqui estão algumas das ferramentas e linguagens que domino e/ou estou aprendend
 | C                    | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) |
 | Linux                | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 | Git                  | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
----
-
-### 💡 Projetos em Destaque
-
-* **[Nome do Projeto 1]**
-    * Uma breve descrição do que o projeto faz e as tecnologias que você usou (ex: "Desenvolvimento de um sistema de controle de temperatura em C para Arduino.").
-    * [Simulador de temperatura](https://github.com/Anthonyldss/simulador-de-temperatura)
 
 ---
 
