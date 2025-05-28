@@ -25,6 +25,9 @@ Aqui estão algumas das ferramentas e linguagens que domino e/ou estou aprendend
 
 ### 💡 Projetos em Destaque
 
+* **[Nome do Projeto 1]**
+    * Uma breve descrição do que o projeto faz e as tecnologias que você usou (ex: "Desenvolvimento de um sistema de controle de temperatura em C para Arduino.").
+    * [Link para o Repositório](https://github.com/Anthonyldss/simulador-de-temperatura)
 
 ---
 
